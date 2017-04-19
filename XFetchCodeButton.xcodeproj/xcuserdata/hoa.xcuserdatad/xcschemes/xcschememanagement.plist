@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>OC_XFetchCodeButton.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>XFetchCodeButton.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>C61826151EA7073600592811</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C61826311EA7099B00592811</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C61826471EA70A2800592811</key>
 		<dict>
 			<key>primary</key>
 			<true/>

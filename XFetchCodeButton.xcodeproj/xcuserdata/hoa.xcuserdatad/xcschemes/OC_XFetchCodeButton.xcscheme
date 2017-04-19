@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C61826151EA7073600592811"
-               BuildableName = "XFetchCodeButton.app"
-               BlueprintName = "XFetchCodeButton"
+               BlueprintIdentifier = "C61826471EA70A2800592811"
+               BuildableName = "OC_XFetchCodeButton.app"
+               BlueprintName = "OC_XFetchCodeButton"
                ReferencedContainer = "container:XFetchCodeButton.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C61826151EA7073600592811"
-            BuildableName = "XFetchCodeButton.app"
-            BlueprintName = "XFetchCodeButton"
+            BlueprintIdentifier = "C61826471EA70A2800592811"
+            BuildableName = "OC_XFetchCodeButton.app"
+            BlueprintName = "OC_XFetchCodeButton"
             ReferencedContainer = "container:XFetchCodeButton.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C61826151EA7073600592811"
-            BuildableName = "XFetchCodeButton.app"
-            BlueprintName = "XFetchCodeButton"
+            BlueprintIdentifier = "C61826471EA70A2800592811"
+            BuildableName = "OC_XFetchCodeButton.app"
+            BlueprintName = "OC_XFetchCodeButton"
             ReferencedContainer = "container:XFetchCodeButton.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C61826151EA7073600592811"
-            BuildableName = "XFetchCodeButton.app"
-            BlueprintName = "XFetchCodeButton"
+            BlueprintIdentifier = "C61826471EA70A2800592811"
+            BuildableName = "OC_XFetchCodeButton.app"
+            BlueprintName = "OC_XFetchCodeButton"
             ReferencedContainer = "container:XFetchCodeButton.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
