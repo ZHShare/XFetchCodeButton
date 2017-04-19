@@ -74,6 +74,11 @@
     
 }
 
+- (void)layoutSubviews {
+    [super layoutSubviews];
+    [_codeBtn setFrame:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height)];
+}
+
 - (void)addTarget:(id)target action:(SEL)sel forEvents:(UIControlEvents)events {
     
     [_codeBtn addTarget:target action:sel forControlEvents:events];

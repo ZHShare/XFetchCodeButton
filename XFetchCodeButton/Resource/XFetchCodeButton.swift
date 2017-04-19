@@ -74,7 +74,10 @@ public class XFetchCodeButton: UIView {
         fatalError("init(coder:) has not been implemented")
     }
     
-    
+    public override func layoutSubviews() { // 重写codebtn的frame
+        super.layoutSubviews()
+        codeBtn!.frame = CGRect(x: 0, y: 0, width: frame.size.width, height: frame.size.height)
+    }
     
     /// target 添加
     public func addTarget(target: Any?, action: Selector, forEvents: UIControlEvents) {
